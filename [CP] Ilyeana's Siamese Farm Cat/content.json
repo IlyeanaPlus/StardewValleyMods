@@ -1,0 +1,20 @@
+{
+    "Format": "1.29.0",
+    "Changes": [
+         // Change first cat to siamese
+         {
+            "Action": "EditImage",
+            "Target": "Animals/cat",
+            "FromFile": "assets/siamese.png"
+         },
+  
+         // Change Menu Icon
+         {
+             "Action": "EditImage",
+             "PatchMode": "Replace",
+             "Target": "LooseSprites/Cursors",
+             "FromFile": "assets/siamesecursor.png",
+             "ToArea": {"X": 161, "Y": 211, "Width": 13, "Height": 10}
+         }
+      ]
+  }

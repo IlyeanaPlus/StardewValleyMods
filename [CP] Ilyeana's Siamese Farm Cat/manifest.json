@@ -1,0 +1,11 @@
+{
+    "Name": "Ilyeanas Siamese Farm Cat",
+    "Author": "Ilyeana",
+    "Version": "1.0.0",
+    "Description": "A Siamese Farm Cat - In memory of Ozzy",
+    "UniqueID": "Ilyeana.SiameseFarmCat",
+    "UpdateKeys": ["Nexus:17033"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
